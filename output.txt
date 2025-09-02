@@ -1,5 +1,5 @@
-Summation      = 17
-Subtraction    = 3
-Multiplication = 70
-Division       = 1.429
-Modulus        = 3
+Summation      = 13
+Subtraction    = 7
+multiplication = 1
+Division       = 3.333
+Modulus        = 1
